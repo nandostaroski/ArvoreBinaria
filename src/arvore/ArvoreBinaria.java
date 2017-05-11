@@ -12,7 +12,7 @@ public class ArvoreBinaria {
 		this.raiz = novo;
 		return novo;
 	}
-
+ 
 	public boolean vazia() {
 		return raiz == null;
 	}
